@@ -8,6 +8,12 @@ So that I can see the bookmarks I have
 I would like to get a list of bookmarks
 ```
 
+```
+As a user
+So that I can store bookmarks
+I would like to be able to save urls to the bookmark manager
+```
+
 ![user-story-list-bookmarks](media/user-story-list-bookmarks.svg)# bookmark_manager
 
 
